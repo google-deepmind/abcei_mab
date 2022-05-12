@@ -23,10 +23,11 @@ This project contains code to:
 
 The companion colab notebook thoroughly describes the intended usesage.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/abcei_mab/notebooks/paper_code.ipynb)
+[![Open In Colab](https://colab.sandbox.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/github/deepmind/abcei_mab/blob/main/notebooks/paper_experiments.ipynb)
 
 ## Citing this work
 
+```
 @article{malek2021asymptotically,
   title={Asymptotically Best Causal Effect Identification with Multi-Armed Bandits},
   author={Malek, Alan and Chiappa, Silvia},
@@ -34,6 +35,7 @@ The companion colab notebook thoroughly describes the intended usesage.
   volume={34},
   year={2021}
 }
+```
 
 ## Disclaimer
 
